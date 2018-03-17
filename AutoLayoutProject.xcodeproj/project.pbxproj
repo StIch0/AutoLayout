@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		77F327EC204D1C060021D79D /* SwipingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F327EB204D1C060021D79D /* SwipingController.swift */; };
 		77F327F2204D36930021D79D /* SwipeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F327F1204D36930021D79D /* SwipeCell.swift */; };
+		77F327F4204FA2F40021D79D /* PageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F327F3204FA2F40021D79D /* PageModel.swift */; };
 		77FF2996203BFB2B00AD014E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77FF2995203BFB2B00AD014E /* AppDelegate.swift */; };
 		77FF2998203BFB2B00AD014E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77FF2997203BFB2B00AD014E /* ViewController.swift */; };
 		77FF299B203BFB2B00AD014E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77FF2999203BFB2B00AD014E /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		77F327EB204D1C060021D79D /* SwipingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipingController.swift; sourceTree = "<group>"; };
 		77F327F1204D36930021D79D /* SwipeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeCell.swift; sourceTree = "<group>"; };
+		77F327F3204FA2F40021D79D /* PageModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageModel.swift; sourceTree = "<group>"; };
 		77FF2992203BFB2B00AD014E /* AutoLayoutProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayoutProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77FF2995203BFB2B00AD014E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77FF2997203BFB2B00AD014E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				77FF2995203BFB2B00AD014E /* AppDelegate.swift */,
 				77FF2997203BFB2B00AD014E /* ViewController.swift */,
 				77F327EB204D1C060021D79D /* SwipingController.swift */,
+				77F327F3204FA2F40021D79D /* PageModel.swift */,
 				77F327F1204D36930021D79D /* SwipeCell.swift */,
 				77FF2999203BFB2B00AD014E /* Main.storyboard */,
 				77FF299C203BFB2B00AD014E /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77FF2998203BFB2B00AD014E /* ViewController.swift in Sources */,
+				77F327F4204FA2F40021D79D /* PageModel.swift in Sources */,
 				77FF2996203BFB2B00AD014E /* AppDelegate.swift in Sources */,
 				77F327F2204D36930021D79D /* SwipeCell.swift in Sources */,
 				77F327EC204D1C060021D79D /* SwipingController.swift in Sources */,
